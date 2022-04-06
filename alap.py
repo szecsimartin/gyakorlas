@@ -1,4 +1,6 @@
 from os import system
+from vezerloSzerkezetek import eldont
+
 system('cls')
 
-print('Valami szöveg')
+eldont(13,25)
